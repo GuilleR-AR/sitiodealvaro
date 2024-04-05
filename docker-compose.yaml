@@ -1,13 +1,11 @@
-version: "3.8"
+---
 services:
   dev:
     build: .
-    #environment:
-    #  SSH_USER: "${USER}"
-    network_mode: "bridge"
-    #network: host
-    privileged: false
     volumes:
       - "./site/:/site/"
     ports:
       - "1313:1313"
+      - "80:80"
+      - "443:443"
+      - "8081:8081"
