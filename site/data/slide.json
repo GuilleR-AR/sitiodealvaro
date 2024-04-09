@@ -7,5 +7,10 @@
     "title": "Sample text here...",
     "image": "img/slide/slide02.jpg",
     "color": "text-black"
+  },
+  {
+    "title": "Sample text here...",
+    "image": "img/slide/slide03.jpg",
+    "color": "text-black"
   }
 ]
