@@ -52,27 +52,28 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "servicios"
+    name = "Servicios"
+    url = "/servicios/"
     weight = 1
+
+
+  [[menu.main]]
+    identifier = "sobre-nosotros"
+    name = "Sobre nosotros"
+    url = "/sobre-nosotros/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contactenos"
+    name = "Contactenos"
+    url = "/contactenos/"
+    weight = 3
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
     weight = 4
 
   # Footer Menu
