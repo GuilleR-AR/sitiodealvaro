@@ -18,14 +18,14 @@ enableRobotsTXT = true
 
 [params]
 
-  showBlog = true
+  showBlog = false
   mainSections = ['blog']
 
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.png"
-    alt = "Asixor Logo"
+    #main = "img/logo/logo.jpg"
+    alt = "Asixor"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -43,11 +43,11 @@ enableRobotsTXT = true
     meta_og_title = "Asixor"
     meta_og_type = "website"
     meta_og_url = "https://www.asixor.com"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+    #meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "Asixor es su aliado estratégico en el comercio exterior"
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    #meta_twitter_card = "summary_large_image"
+    #meta_twitter_site = "@username"
+    #meta_twitter_creator = "@username"
 
 [menu]
 
@@ -75,11 +75,11 @@ enableRobotsTXT = true
     url = "/contactenos/"
     weight = 4
 
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 5
+  #[[menu.main]]
+  #  identifier = "blog"
+  #  name = "Blog"
+  #  url = "/blog/"
+  #  weight = 5
 
   # Footer Menu
   [[menu.footer]]
