@@ -1,5 +1,5 @@
 baseURL = "https://main--funny-crumble-b0bda7.netlify.app"
-title = "CE&SER"
+title = "Asixor"
 author = "username"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -25,14 +25,14 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.png"
-    alt = "CE&SER Logo"
+    alt = "Asixor Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "CE&SER"
+    name = "Asixor"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -40,7 +40,7 @@ enableRobotsTXT = true
 
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "CE&SER"
+    meta_og_title = "Asixor"
     meta_og_type = "website"
     meta_og_url = "https://tella.pages.dev"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"

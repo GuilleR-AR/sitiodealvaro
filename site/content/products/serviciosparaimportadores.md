@@ -9,7 +9,7 @@ description: "Le ofrecemos apoyo estratégico para importar de forma eficiente, 
 ---
 
 Le ofrecemos apoyo estratégico para importar de forma eficiente, minimizando costos e imprevistos.
-Nos adaptamos a sus necesidades para que pueda centrarse en su negocio mientras CE&SER se encarga de los aspectos técnicos y comerciales.
+Nos adaptamos a sus necesidades para que pueda centrarse en su negocio mientras Asixor se encarga de los aspectos técnicos y comerciales.
 Nuestros servicios de importación son flexibles y se adaptan a sus necesidades, permitiéndole importar bienes de capital, insumos productivos, productos para reventa o muestras para nuevos desarrollos.
 Para darle una idea, el proceso se puede dividir en 3 etapas:
 ## Etapa 1: Búsqueda de proveedores y productos
