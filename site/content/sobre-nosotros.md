@@ -1,11 +1,11 @@
 +++
 title = "Sobre Nosotros"
-description = "CEYSER es su aliado estratégico en el comercio exterior"
+description = "CE&SER es su aliado estratégico en el comercio exterior"
 date = "2019-02-28"
 aliases = ["sobre-nosotros", "contacto"]
-author = "CEYSER"
+author = "CE&SER"
 +++
-CEYSER es su aliado estratégico en el comercio exterior, liderado por el Licenciado en Negocios Internacionales Alvaro Montanari, un especialista con amplia experiencia en áreas comerciales, aduaneras y de abastecimiento. Su formación académica y trayectoria profesional lo convierten en un socio confiable para su empresa.
+CE&SER es su aliado estratégico en el comercio exterior, liderado por el Licenciado en Negocios Internacionales Alvaro Montanari, un especialista con amplia experiencia en áreas comerciales, aduaneras y de abastecimiento. Su formación académica y trayectoria profesional lo convierten en un socio confiable para su empresa.
 
 ## Alvaro cuenta con las siguientes acreditaciones:
 
@@ -15,9 +15,9 @@ CEYSER es su aliado estratégico en el comercio exterior, liderado por el Licenc
 
 * Técnico Superior en Mantenimiento de Aeronaves, adquirido en CEFAAL, Albacete.
 
-* Además de brindar servicios de consultoría en CEYSER, Alvaro comparte su conocimiento como profesor en la carrera de Técnico Superior en Operaciones de Comercio Exterior, formando a futuros profesionales del comercio internacional.
+* Además de brindar servicios de consultoría en CE&SER, Alvaro comparte su conocimiento como profesor en la carrera de Técnico Superior en Operaciones de Comercio Exterior, formando a futuros profesionales del comercio internacional.
 
-## CEYSER te ofrece:
+## CE&SER te ofrece:
 
 Asesoramiento personalizado en todas las etapas de sus operaciones de comercio exterior.
 Gestión profesional de sus operaciones de comercio exterior, brindando soluciones orientadas a objetivos.

@@ -1,18 +1,14 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
+    "title": "SERVICIOS PARA IMPORTADORES",
+    "link": "products/serviciosparaimportadores"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
-    "icon": "icon-lightbulb_outline"
+    "title": "DESARROLLO DE EXPORTADORES",
+    "link": "products/desarrollodeexportadores"
   },
   {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
+    "title": "COMPRAS SUPPLY CHAIN",
+    "link": "products/comprassupplychain"
   }
 ]

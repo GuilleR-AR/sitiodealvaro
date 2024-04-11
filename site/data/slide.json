@@ -1,15 +1,16 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
-    "image": "img/slide/slide01.jpg"
-  },
-  {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg",
+    "title": "¡Dale a tu empresa impulso integrando a profesionales de forma temporal o permanente, aportando conocimiento, experiencia y nuevas perspectivas!",
+    "image": "img/slide/slide01.jpg",
     "color": "text-black"
   },
   {
-    "title": "Sample text here...",
+    "title": "Analizamos el mercado local, importador y exportador para que tome decisiones informadas y libere a su equipo de responsabilidades extra.",
+    "image": "img/slide/slide02.jpg",
+    "color": "text-white"
+  },
+  {
+    "title": "El mundo es su mercado. Expanda su negocio con soluciones en importaciones, exportaciones y para el área de compras.  ",
     "image": "img/slide/slide03.jpg",
     "color": "text-black"
   }
