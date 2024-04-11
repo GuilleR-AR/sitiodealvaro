@@ -1,8 +1,8 @@
 baseURL = "https://asixor.netlify.app"
 title = "Asixor"
-author = "username"
-languageCode = "en"
-DefaultContentLanguage = "en"
+author = "Asixor"
+languageCode = "es"
+DefaultContentLanguage = "es"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
@@ -39,12 +39,12 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_description = "Asixor es su aliado estratégico en el comercio exterior"
     meta_og_title = "Asixor"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://www.asixor.com"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_description = "Asixor es su aliado estratégico en el comercio exterior"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
