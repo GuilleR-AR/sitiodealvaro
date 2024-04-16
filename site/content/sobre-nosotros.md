@@ -1,25 +1,20 @@
 +++
-title = "Sobre Nosotros"
+title = "Asixor"
 description = "Asixor es su aliado estratégico en el comercio exterior"
 date = "2019-02-28"
 aliases = ["sobre-nosotros", "contacto"]
 author = "Asixor"
 +++
-Asixor es su aliado estratégico en el comercio exterior, liderado por el Licenciado en Negocios Internacionales Alvaro Montanari, un especialista con amplia experiencia en áreas comerciales, aduaneras y de abastecimiento. Su formación académica y trayectoria profesional lo convierten en un socio confiable para su empresa.
+Asixor le brinda la experiencia y el conocimiento para alcanzar sus objetivos de negocio.
 
-## Alvaro cuenta con las siguientes acreditaciones:
+# ¿Busca impulsar sus negocios sin depender del mercado local? Asixor le brinda la experiencia y el conocimiento para alcanzar sus objetivos de negocio.
 
-* Licenciado en Gestión de Negocios Internacionales y actualmente cursando una Maestría en Finanzas en la UNR.
-
-* Técnico Superior en Comercio Exterior con Especialización en Aduana (Argentina), obtenido en CES Rosario.
-
-* Técnico Superior en Mantenimiento de Aeronaves, adquirido en CEFAAL, Albacete.
-
-* Además de brindar servicios de consultoría en Asixor, Alvaro comparte su conocimiento como profesor en la carrera de Técnico Superior en Operaciones de Comercio Exterior, formando a futuros profesionales del comercio internacional.
-
-## Asixor te ofrece:
-
-Asesoramiento personalizado en todas las etapas de sus operaciones de comercio exterior.
-Gestión profesional de sus operaciones de comercio exterior, brindando soluciones orientadas a objetivos.
-
-### ¿Quiere saber más? Contáctenos y descubra cómo podemos acompañarlo a alcanzar sus objetivos de negocio.
+Nuestros servicios incluyen el análisis de su producto, del mercado y de su empresa, con la finalidad de resolver sus necesidades y potenciar a su equipo de trabajo.
+Ser exportador es competir internacionalmente y lograrlo es un privilegio. Asixor lo acompaña en un análisis de variables internas y externas para poder identificar de manera clara y simple si su producto es potencialmente exportable (identificando ventajas competitivas o estrategias de precio acorde a diferentes mercados). Existen varias dimensiones para analizar y los resultados mejorarán la performance de su empresa, la presentación de su producto, su competitividad y también la de su equipo de trabajo. Asixor es una herramienta para potenciar objetivos como la reducción de costos, el aumento de la eficiencia y la expansión a nuevos mercados.
+Ser importador le permite el acceso a tecnologías más sofisticadas y competitivas que le van a permitir tener un mayor poder sobre su estructura de costos. Importar es diversificar a sus proveedores, es minimizar costos y maximizar oportunidades. Siempre es un buen momento para invertir en maquinaria y para optimizar sus costos.
+No necesita ser un experto Asixor le brindará todo lo necesario para que su experiencia sea exitosa (Por ejemplo, lo vincularemos con proveedores estratégicos y lo ayudaremos en negociaciones).
+Asixor le ofrece:
+* Asesoramiento personalizado en todas las etapas de sus operaciones de comercio exterior 
+* Tercerizar compras locales (productivas, no productivas, contrataciones de servicios, licitaciones, compras de bienes de capital). 
+Lo acompañamos en sus proyectos, planes y objetivos para aumentar la eficiencia.
+# ¿Listo para llevar su negocio al siguiente nivel? Contáctenos para una consulta gratuita.
