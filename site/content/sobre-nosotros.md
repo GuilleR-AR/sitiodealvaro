@@ -7,7 +7,7 @@ author = "Asixor"
 +++
 Asixor le brinda la experiencia y el conocimiento para alcanzar sus objetivos de negocio.
 
-# ¿Busca impulsar sus negocios sin depender del mercado local? Asixor le brinda la experiencia y el conocimiento para alcanzar sus objetivos de negocio.
+## ¿Busca impulsar sus negocios sin depender del mercado local? Asixor le brinda la experiencia y el conocimiento para alcanzar sus objetivos de negocio.
 
 Nuestros servicios incluyen el análisis de su producto, del mercado y de su empresa, con la finalidad de resolver sus necesidades y potenciar a su equipo de trabajo.
 Ser exportador es competir internacionalmente y lograrlo es un privilegio. Asixor lo acompaña en un análisis de variables internas y externas para poder identificar de manera clara y simple si su producto es potencialmente exportable (identificando ventajas competitivas o estrategias de precio acorde a diferentes mercados). Existen varias dimensiones para analizar y los resultados mejorarán la performance de su empresa, la presentación de su producto, su competitividad y también la de su equipo de trabajo. Asixor es una herramienta para potenciar objetivos como la reducción de costos, el aumento de la eficiencia y la expansión a nuevos mercados.
@@ -17,4 +17,4 @@ Asixor le ofrece:
 * Asesoramiento personalizado en todas las etapas de sus operaciones de comercio exterior 
 * Tercerizar compras locales (productivas, no productivas, contrataciones de servicios, licitaciones, compras de bienes de capital). 
 Lo acompañamos en sus proyectos, planes y objetivos para aumentar la eficiencia.
-# ¿Listo para llevar su negocio al siguiente nivel? Contáctenos para una consulta gratuita.
+## ¿Listo para llevar su negocio al siguiente nivel? Contáctenos para una consulta gratuita.
