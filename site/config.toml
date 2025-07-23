@@ -24,7 +24,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    #main = "img/logo/logo.jpg"
+    main = "img/logo/logo.jpg"
     alt = "Asixor"
 
     # The size parameter is the class name of tailwindcss
